@@ -1,5 +1,5 @@
 # This entrypoint file to be used in development. Start by reading README.md
-from ArithmeticF.arithmetic_formatter import *
+from arithmetic_formatter import arithmetic_formatter
 from unittest import main
 
 
